@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPF_Application.EditStudentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit Student" Height="300" Width="400" Background="MediumPurple">
+    <Grid>
+        <TextBox x:Name="NameTextBox" Width="200" Margin="5,10,195,244" Text="Name" />
+        <TextBox x:Name="GradeTextBox" Margin="210,10,29,244" Text="Grade" />
+        <TextBox x:Name="SubjectTextBox" Width="200" Margin="5,45,195,204" Text="Subject" />
+        <TextBox x:Name="MarksTextBox" Margin="210,45,29,204" Text="Marks" />
+        <TextBox x:Name="AttendanceTextBox" Width="200" Margin="105,94,95,161" Text="Attendance Percentile" />
+        <Button Content="Save" Click="SaveButton_Click" Margin="21,142,220,109" Background="Purple" Foreground="White"/>
+        <Button Content="Delete" Click="DeleteButton_Click" Margin="205,142,29,109"  Background="Purple" Foreground="White"/>
+    </Grid>
+</Window>

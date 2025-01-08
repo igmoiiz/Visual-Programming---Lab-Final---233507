@@ -1,0 +1,13 @@
+﻿<!-- Components/ProductCard.razor -->
+@using Blazor_Application.Data
+
+<div class="product-card">
+    <h3>@Product.Name</h3>
+    <p>Price: @Product.Price.ToString("C")</p>
+    <p>Category: @Product.Category</p>
+</div>
+
+@code {
+    [Parameter]
+    public Product Product { get; set; }
+}

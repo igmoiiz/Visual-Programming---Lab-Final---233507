@@ -1,0 +1,31 @@
+﻿<Window x:Class="WPF_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student Progress Tracker" Height="450" Width="800" Background="White">
+    <Grid>
+        <ComboBox x:Name="GradeComboBox" SelectionChanged="GradeComboBox_SelectionChanged" Width="120" Margin="23,11,657,375" Foreground="Black"/>
+
+        <ComboBox x:Name="SubjectComboBox" SelectionChanged="SubjectComboBox_SelectionChanged" Width="120" Margin="220,11,460,375" Foreground="Black"/>
+
+        <Button Content="Add Student" Click="AddEditButton_Click" Width="120" Margin="414,10,266,375" Foreground="White" Background="Purple"/>
+
+        <TextBox x:Name="txtName" Width="120" Margin="60,81,620,332" />
+
+        <TextBox x:Name="txtMarks" Margin="326,81,316,332" />
+
+        <TextBox x:Name="txtAttendance" Width="120" Margin="550,70,670,358" />
+
+        <Button Content="Update Student" Click="UpdateStudentButton_Click" Width="120" Margin="539,11,141,375" Foreground="White" Background="Purple"/>
+        <Button Content="Delete Student" Click="DeleteStudentButton_Click" Margin="664,11,10,375" Foreground="White" Background="Purple"/>
+
+        <DataGrid x:Name="StudentsDataGrid" AutoGenerateColumns="False" Margin="10,159,10,10" SelectionChanged="StudentsDataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" />
+                <DataGridTextColumn Header="Grade" Binding="{Binding Grade}" />
+                <DataGridTextColumn Header="Subject" Binding="{Binding Subject}" />
+                <DataGridTextColumn Header="Marks" Binding="{Binding Marks}" />
+                <DataGridTextColumn Header="Attendance Percentile" Binding="{Binding AttendancePercentile}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

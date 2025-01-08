@@ -1,0 +1,25 @@
+﻿<!-- Components/ProductList.razor -->
+@using Blazor_Application.Data
+
+@code {
+    private List<Product> products;
+
+    protected override void OnInitialized()
+    {
+        // Hardcoded product data
+        products = new List<Product>
+        {
+            new Product { Name = "Laptop", Price = 999.99m, Category = "Electronics" },
+            new Product { Name = "Smartphone", Price = 499.99m, Category = "Electronics" },
+            new Product { Name = "Coffee Maker", Price = 79.99m, Category = "Home Appliances" },
+            new Product { Name = "Headphones", Price = 199.99m, Category = "Accessories" }
+        };
+    }
+}
+
+<div class="product-list">
+    @foreach (var product in products)
+    {
+        <ProductCard Product="product" />
+    }
+</div>

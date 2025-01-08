@@ -1,0 +1,34 @@
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\appsettings.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.staticwebassets.runtime.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.staticwebassets.endpoints.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.exe
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.deps.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.runtimeconfig.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.dll
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\bin\Debug\net8.0\Blazor_Application.pdb
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor Application.AssemblyInfoInputs.cache
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor Application.AssemblyInfo.cs
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor Application.csproj.CoreCompileInputs.cache
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor Application.sourcelink.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\scopedcss\bundle\Blazor_Application.styles.css
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\scopedcss\projectbundle\Blazor_Application.bundle.scp.css
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets\msbuild.Blazor_Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets\msbuild.Blazor_Application.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets\msbuild.build.Blazor_Application.props
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blazor_Application.props
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blazor_Application.props
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor_Application.dll
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\refint\Blazor_Application.dll
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor_Application.pdb
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\Blazor Application.genruntimeconfig.cache
+D:\Visual Programming - Lab Final - 233507\Web Application\Blazor Application\Blazor Application\obj\Debug\net8.0\ref\Blazor_Application.dll

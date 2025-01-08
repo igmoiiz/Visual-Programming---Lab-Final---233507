@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|d:\\visual programming - lab final - 233507\\wpf application\\wpf application\\wpf application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|solutionrelative:wpf application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|d:\\visual programming - lab final - 233507\\wpf application\\wpf application\\wpf application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|solutionrelative:wpf application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|d:\\visual programming - lab final - 233507\\wpf application\\wpf application\\wpf application\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|solutionrelative:wpf application\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|d:\\visual programming - lab final - 233507\\wpf application\\wpf application\\wpf application\\editstudentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|solutionrelative:wpf application\\editstudentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|d:\\visual programming - lab final - 233507\\wpf application\\wpf application\\wpf application\\editstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|solutionrelative:wpf application\\editstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|d:\\visual programming - lab final - 233507\\wpf application\\wpf application\\wpf application\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882A314D-72A9-4870-9D78-5D2A67C990D8}|WPF Application\\WPF Application.csproj|solutionrelative:wpf application\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "WPF Application\\DatabaseHelper.cs",
+              "ToolTip": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\DatabaseHelper.cs",
+              "RelativeToolTip": "WPF Application\\DatabaseHelper.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwFkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:34:19.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditStudentWindow.xaml",
+              "DocumentMoniker": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\EditStudentWindow.xaml",
+              "RelativeDocumentMoniker": "WPF Application\\EditStudentWindow.xaml",
+              "ToolTip": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\EditStudentWindow.xaml",
+              "RelativeToolTip": "WPF Application\\EditStudentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T08:41:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF Application\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF Application\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:10:31.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF Application\\MainWindow.xaml",
+              "ToolTip": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\MainWindow.xaml",
+              "RelativeToolTip": "WPF Application\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-08T08:10:35.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditStudentWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\EditStudentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF Application\\EditStudentWindow.xaml.cs",
+              "ToolTip": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\EditStudentWindow.xaml.cs",
+              "RelativeToolTip": "WPF Application\\EditStudentWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:42:58.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\Student.cs",
+              "RelativeDocumentMoniker": "WPF Application\\Student.cs",
+              "ToolTip": "D:\\Visual Programming - Lab Final - 233507\\WPF Application\\WPF Application\\WPF Application\\Student.cs",
+              "RelativeToolTip": "WPF Application\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:35:20.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
